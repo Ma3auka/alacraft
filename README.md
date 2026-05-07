@@ -10,6 +10,8 @@
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QbSEPbGA8u)
 [![Twitter](https://img.shields.io/badge/Twitter-@alacraftday-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alacraftday)
 
+![Uptime](https://img.shields.io/website?url=https%3A%2F%2Falacraft.day&style=flat-square&label=alacraft.day&up_message=online&down_message=offline)
+
 <br>
 
 ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -109,6 +111,8 @@ AlaCraft started in **November 2023** as a small Minecraft tools site and has gr
 - Server-side sitemap generation and structured data (JSON-LD)
 
 Development is ongoing — new features, blocks, and community tools are added regularly.
+
+→ See the full [CHANGELOG](CHANGELOG.md) for the complete history.
 
 ---
 
