@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://alacraft.day/og/fireworks.png" alt="AlaCraft" width="100%">
+<img src="https://alacraft.day/og/alacraft-logo.png" alt="AlaCraft Logo" width="120">
 
-<br><br>
+<h1>AlaCraft</h1>
 
-# AlaCraft
-
-### A Minecraft community platform — tools, guides, and a place for players.
-
-<br>
+<p><strong>A Minecraft community platform — tools, guides, and a place for players.</strong></p>
 
 [![Website](https://img.shields.io/badge/🌐_Website-alacraft.day-brightgreen?style=for-the-badge)](https://alacraft.day)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QbSEPbGA8u)
@@ -22,6 +18,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+<br>
+
+<img src="https://alacraft.day/og/alacraft-og-default-v2.jpg" alt="AlaCraft preview" width="100%">
+
 </div>
 
 ---
@@ -30,7 +30,7 @@
 
 AlaCraft is a **community-driven Minecraft platform** that has been helping players since 2023. We combine practical in-game tools with an active community space — so players can quickly find what they need, read the latest news, and connect with fellow Minecraft enthusiasts.
 
-> **Live site:** [alacraft.day](https://alacraft.day) · Available in 6 languages
+> **Live site:** [alacraft.day](https://alacraft.day) · Available in 7 languages
 
 ---
 
@@ -44,7 +44,7 @@ AlaCraft is a **community-driven Minecraft platform** that has been helping play
 | 📰 | **News** | Minecraft news and server updates for the community |
 | 👤 | **Player Profiles** | Registration, personal inventory, and activity tracking |
 | 💬 | **Community** | Player posts, reactions, and discussion threads |
-| 🌍 | **6 Languages** | Full localization with proper hreflang and canonical tags per page |
+| 🌍 | **7 Languages** | Full localization with proper hreflang and canonical tags per page |
 
 ---
 
@@ -52,7 +52,7 @@ AlaCraft is a **community-driven Minecraft platform** that has been helping play
 
 <div align="center">
 
-| 🔨 Recipes | 🧱 Blocks | 📦 Versions | 🔧 Mods |
+| ⚒️ Recipes | 🧱 Blocks | 📦 Versions | 🔧 Mods |
 |:---------:|:--------:|:-----------:|:------:|
 | **753** | **1,332** | **52** | **51** |
 
@@ -69,7 +69,21 @@ Database   MySQL 8 · AWS S3 (media)
 Infra      Hetzner Cloud · Cloudflare CDN
 ```
 
-**Localization** — `en` · `ru` · `uk` · `es` · `fr` · `de`
+---
+
+## Localization
+
+All content is available in **7 languages** with hreflang and canonical tags on every page:
+
+| Language | URL prefix |
+|----------|-----------|
+| 🇬🇧 English | `/en/` |
+| 🇷🇺 Russian | `/ru/` |
+| 🇺🇦 Ukrainian | `/uk/` |
+| 🇪🇸 Spanish | `/es/` |
+| 🇫🇷 French | `/fr/` |
+| 🇩🇪 German | `/de/` |
+| 🇯🇵 Japanese | `/ja/` |
 
 ---
 
@@ -89,7 +103,7 @@ Join us outside the platform too:
 
 AlaCraft started in **November 2023** as a small Minecraft tools site and has grown steadily into a full community platform with:
 
-- Multilingual support across 6 languages
+- Multilingual support across 7 languages including Japanese
 - 1,300+ block pages with SEO-optimized descriptions
 - An embedded community portal
 - Server-side sitemap generation and structured data (JSON-LD)
