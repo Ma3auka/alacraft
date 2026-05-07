@@ -28,6 +28,12 @@
 
 ---
 
+## Contents
+
+[What is AlaCraft?](#what-is-alacraft) · [Features](#features) · [By the Numbers](#by-the-numbers) · [Tech Stack](#tech-stack) · [Localization](#localization) · [Community](#community) · [History](#history) · [Changelog](CHANGELOG.md) · [Roadmap](ROADMAP.md)
+
+---
+
 ## What is AlaCraft?
 
 AlaCraft is a **community-driven Minecraft platform** that has been helping players since 2023. We combine practical in-game tools with an active community space — so players can quickly find what they need, read the latest news, and connect with fellow Minecraft enthusiasts.

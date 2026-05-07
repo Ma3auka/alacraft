@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Quick question? Ask on Discord
+    url: https://discord.gg/QbSEPbGA8u
+    about: For quick questions and general help, join our Discord community — fastest response guaranteed.
+  - name: 🐦 Follow updates on Twitter / X
+    url: https://x.com/alacraftday
+    about: Stay up to date with AlaCraft news and announcements.
+  - name: 🌐 Visit the live site
+    url: https://alacraft.day
+    about: Browse crafting recipes, block guides, armor calculator, and more.
