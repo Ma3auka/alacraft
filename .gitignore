@@ -1,0 +1,52 @@
+# Dependencies
+/node_modules
+/vendor
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build output
+/public/build
+/public/hot
+/public/storage
+/public/sitemap.xml
+
+# Laravel
+/storage/*.key
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+/bootstrap/cache
+
+# Database
+*.sqlite
+*.sqlite-journal
+database/database.sqlite
+
+# IDE
+/.idea
+/.vscode
+/.fleet
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# PHP
+.phpunit.cache
+.phpunit.result.cache
+auth.json
+Homestead.json
+Homestead.yaml
+
+# Local config
+*.local.json
+*.local.php
