@@ -7,6 +7,12 @@ The project has been live at [alacraft.day](https://alacraft.day) since November
 
 ## 2026
 
+- **Update history page** — a public changelog at `/changelog` now tracks new tools, content, and improvements
+- **Sulfur Cube guide** — full guide covering all 12 Sulfur Cube archetypes, linked from the tool page
+- **Stronghold Finder** — locate the End portal stronghold from two Eye of Ender throws
+- **Achievement Generator** — create Minecraft advancement-style images (Task, Goal, Challenge frames)
+- **Custom Crafts Generator** — build your own 2×2 and 3×3 recipes and export them for datapacks
+- **Seeds catalog** — hand-picked Minecraft world seeds with maps, coordinates, categories, and Java/Bedrock notes
 - **Community Portal** — players can now publish posts, react, and interact directly on the site
 - **Japanese locale** — added 7th language (`/ja/`), including official Mojang block name translations
 - **New tools** — Nether calculator, Fireworks builder, Tellraw generator, Flat World generator
@@ -16,7 +22,7 @@ The project has been live at [alacraft.day](https://alacraft.day) since November
 
 ## 2025
 
-- **News section** — Minecraft news and server updates published regularly
+- **News section** — Minecraft news and guides published regularly
 - **Block reference** — full database of 1,332 blocks with search and filtering
 - **Multilingual expansion** — Ukrainian, Spanish, French, German locales added
 - **Player profiles** — personal inventory tracking and activity history
