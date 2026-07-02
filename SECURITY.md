@@ -2,31 +2,40 @@
 
 ## Supported versions
 
-| Version | Supported |
-|---------|-----------|
-| v2.x (current) | ✅ |
-| v1.x | ❌ |
+| Version | Status |
+|---------|--------|
+| v2.1.x  | ✅ Supported (current) |
+| v2.0.x  | ✅ Supported |
+| v1.x    | ❌ Not supported |
+
+AlaCraft is a continuously deployed web platform. "Supported" means security patches are actively applied to the live production site at [alacraft.day](https://alacraft.day).
 
 ## Reporting a vulnerability
 
-**Do NOT open a public GitHub Issue for security vulnerabilities.**
+**Do not report security issues in public GitHub Issues.**
 
-If you discover a security issue on [alacraft.day](https://alacraft.day), please report it privately:
+Contact us privately:
 
-1. **Discord (preferred)** — join [discord.gg/QbSEPbGA8u](https://discord.gg/QbSEPbGA8u) and send a direct message to a moderator
-2. **Twitter / X** — send a DM to [@alacraftday](https://x.com/alacraftday)
+- **Discord** — send a direct message to the maintainer via [discord.gg/QbSEPbGA8u](https://discord.gg/QbSEPbGA8u)
+- **Twitter / X** — DM [@alacraftday](https://x.com/alacraftday)
 
-### What to include in your report
+Include in your report:
 
 - Description of the vulnerability
 - Steps to reproduce
-- URL or page where the issue occurs
+- Affected URL or feature
 - Potential impact
 
-### What to expect
+We will acknowledge the report within 48 hours and keep you updated on the fix.
 
-- We aim to acknowledge your report within **48 hours**
-- We will investigate and keep you informed of our progress
-- We will credit you in the fix notes if you wish
+## Scope
+
+**In scope:** anything at `alacraft.day` that could compromise player data, authentication, or site integrity — XSS, CSRF, authentication bypass, data exposure, unauthorized access.
+
+**Out of scope:** social engineering, rate-limiting on public read endpoints, theoretical vulnerabilities without a working proof of concept.
+
+## Disclosure
+
+We follow coordinated disclosure. Please allow reasonable time to patch before publishing details publicly.
 
 Thank you for helping keep AlaCraft and its community safe.
